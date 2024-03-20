@@ -12,7 +12,7 @@ Explore my portfolio website built using Three.js! Visit [Aritra Dhoni's Portfol
 
 ## Contact Me
 
-- Email: your.email@example.com
+- Email: dawnmannu@gmail.com
 - LinkedIn: [Aritra Dhoni](https://www.linkedin.com/in/aritra-dhoni-270250232/)
 - GitHub: [AritraDhoni](https://github.com/aerisakaaritra)
 
