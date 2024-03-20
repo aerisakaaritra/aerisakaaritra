@@ -1,8 +1,20 @@
-# React + Vite
+# Aritra Dhoni - Full Stack Developer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my GitHub profile! I'm Aritra Dhoni, a passionate full stack developer with expertise in React, Node.js, Next.js, TypeScript, Express, MySQL, and MongoDB. I specialize in building dynamic and scalable web applications.
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I'm deeply passionate about creating innovative solutions and leveraging the latest technologies to build robust web applications. With extensive experience in both frontend and backend development, I enjoy tackling complex challenges and delivering high-quality software solutions.
+
+## Portfolio Website
+
+Explore my portfolio website built using Three.js! Visit [Aritra Dhoni's Portfolio](https://your-portfolio-website.com) to learn more about my projects, skills, and experience. Feel free to reach out to me through the contact information provided on the website.
+
+## Contact Me
+
+- Email: your.email@example.com
+- LinkedIn: [Aritra Dhoni](https://www.linkedin.com/in/aritra-dhoni-270250232/)
+- GitHub: [AritraDhoni](https://github.com/aerisakaaritra)
+
+I'm open to collaboration opportunities, so don't hesitate to get in touch!
+
